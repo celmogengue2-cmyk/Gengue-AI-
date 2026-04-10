@@ -13,3 +13,9 @@ O objetivo é tornar a inteligência artificial acessível, prática e ligada à
 1. Clone este repositório:  
    ```bash
    git clone https://github.com/celmo/Gengue-AI-.git
+## 📱 Como usar
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/celmogengue2-cmyk/Gengue-AI.git
+   cd Gengue-AI
+   print("Hello Gengue AI")
